@@ -6,6 +6,6 @@ public class SuperUser {
     private String lastName;
 
     public SuperUser(){
-
+            // add comment
     }
 }
