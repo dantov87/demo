@@ -4,4 +4,8 @@
 public class SuperUser {
     private String name;
     private String lastName;
+
+    public SuperUser(){
+
+    }
 }
